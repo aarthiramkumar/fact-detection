@@ -46,8 +46,7 @@ To analyze fake videos, we split them into individual frames for image-based dee
 
 ## 🎥 VerifyAI Demo Video
 
-[📌 Click here to watch the demo on Google Drive](https://drive.google.com/file/d/1f8Q2Vds7vWji8jF9R651t71SUfbYoqaS/view?usp=sharing)
-
+[![Watch the video](https://img.youtube.com/vi/xB7aOlwVftw/0.jpg)](https://youtu.be/xB7aOlwVftw)
 
 
 
