@@ -1,7 +1,8 @@
 # Verify AI - Misinformation Detection & Fact Checking 📢
 
 ### 📌 Theme: Misinformation Detection & Fact Checking on Social Media
-False information spreads rapidly on social media, affecting public trust and decision-making. Our project, **Verify AI**, uses advanced AI models to analyze **images, texts, and videos** for fake or manipulated content in real-time.
+False information spreads rapidly on social media, affecting public trust and decision-making. Our project, **Verify AI**, uses advanced AI models to analyze **images, texts, and videos** for fake or manipulated content in real-time(.Our model's trained dataset has been give below as drive link for reference.)
+https://drive.google.com/drive/folders/1M9qL7M8dzV4hwscI_JxMhjEOkG6r3fp6?usp=sharing
 
 ![image](https://github.com/user-attachments/assets/ec16e6d5-478b-4fc4-baea-3960634207ab)
 ## 🚀 Features
