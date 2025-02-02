@@ -5,5 +5,3 @@ opencv-python
 pydantic
 requests
 python-multipart
-pip install python-multipart
-pip install uvicorn
