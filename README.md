@@ -85,25 +85,3 @@ It detects fake elements and provides a detailed explanation of why the video is
 Users can enter or upload a news article for verification.
 The system processes the text, checks it against fact-checking databases, and applies NLP techniques.
 It returns a real or fake classification along with a justification for the decision.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
