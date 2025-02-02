@@ -49,6 +49,20 @@ To analyze fake videos, we split them into individual frames for image-based dee
 
 
 
+## 📹 VerifyAI Demo
+
+<video width="640" height="360" controls>
+  <source src="verifyAI sub.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+
+
+
+
 **🔹 Steps to Extract Frames from a Video:**
 ```python
 import cv2
