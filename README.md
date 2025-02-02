@@ -44,17 +44,10 @@ To analyze fake videos, we split them into individual frames for image-based dee
 
 
 
-[![Watch the video](https://img.youtube.com/vi/k0FTIlOqsE0/0.jpg)](https://www.youtube.com/watch?v=k0FTIlOqsE0)
+## 🎥 VerifyAI Demo Video
 
+[📌 Click here to watch the demo on Google Drive](https://drive.google.com/file/d/1f8Q2Vds7vWji8jF9R651t71SUfbYoqaS/view?usp=sharing)
 
-
-
-## 📹 VerifyAI Demo
-
-<video width="640" height="360" controls>
-  <source src="verifyAI sub.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
